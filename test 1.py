@@ -12,7 +12,7 @@ input2 = browser.find_element_by_css_selector(".first_block .second")
 input2.send_keys("Petrov")
 input3 = browser.find_element_by_css_selector(".first_block .third")
 input3.send_keys("123@mail.com")
-
+#123123
 
 # Отправляем заполненную форму
 button = browser.find_element_by_css_selector("button.btn")
