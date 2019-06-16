@@ -28,3 +28,6 @@ welcome_text = welcome_text_elt.text
 
 # с помощью assert проверяем, что ожидаемый текст совпадает с текстом на странице сайта
 assert "Поздравляем! Вы успешно зарегистировались!" == welcome_text
+
+
+print("I know how to use GIT!")
